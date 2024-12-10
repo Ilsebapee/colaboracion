@@ -1,2 +1,1 @@
-# colaboracion
-#Crear un laberinto con obstaculos 
+Mi primer repositorio 
